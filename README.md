@@ -1,6 +1,6 @@
 🌐 Aadi Shrivastava — Personal Portfolio
 
-A modern and fully responsive portfolio website built using Next.js, Tailwind CSS, and EmailJS.
+A modern and fully responsive portfolio website built using React.js, Tailwind CSS, and EmailJS.
 This website showcases my skills, projects, experience, achievements, SIPs, and competitive programming profiles — all in one place.
 
 🚀 Live Demo:
@@ -9,7 +9,7 @@ This website showcases my skills, projects, experience, achievements, SIPs, and 
 🧠 Tech Stack
 
 Category — Technologies Used
-Frontend: Next.js 14, React, TypeScript, Tailwind CSS
+Frontend:  React, TypeScript, Tailwind CSS
 UI & Animations: Framer Motion, ShadCN UI
 Email Service: EmailJS
 Deployment: Netlify
